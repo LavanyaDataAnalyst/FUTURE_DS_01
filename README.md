@@ -70,6 +70,8 @@ The dataset contains
 * Time-based analysis shows steady growth in sales, especially in later years.
 * No-discount sales highlight the true performance of products without promotional impact.
 
+![Dashboard](BSPA-Dashboard.png)
+
 ## 🔍 Key Insights
 
 * Some categories generate high sales but lower profit, indicating margin issues.
