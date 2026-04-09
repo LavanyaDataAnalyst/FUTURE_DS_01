@@ -69,6 +69,7 @@ The dataset contains
 * Sales performance varies across regions, states, and customer segments.
 * Time-based analysis shows steady growth in sales, especially in later years.
 * No-discount sales highlight the true performance of products without promotional impact.
+
 ![Dashboard](Dashboard - BSPA.png)
 
 ## 🔍 Key Insights
